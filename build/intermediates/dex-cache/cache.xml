@@ -2,74 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-78f6ba75e819faf072f533b845e1a5cebcdf0864.jar" />
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-6a08b2c80871ce44f7fef54e799a8bced297dc59.jar" />
     </item>
     <item
-        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.2.0/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-500ba57a528f97a49052beb8016a59e81ad713ed.jar" />
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-9f48c52979212efce9bfcec103067bc1fdeb398a.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/libs/volley.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-6ec42dbb7f71d177439320b7c22a8cd80d2abf6a.jar" />
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/volley-6ddd609785812858dca82b2d62b7622690e492a2.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/libs/internal_impl-23.2.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-df84e7417af82bbb1d9a8aaaceed1758476ea948.jar" />
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-a9ffb055a65fb00c65f8708e2634b381e9f8daf3.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-ed9f1152c00ab225e3d340d78ea34f10a4244fa8.jar" />
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-581e0b1f7a919a2600e0ea6ff4f21be5860965ec.jar" />
     </item>
     <item
-        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-92d9174fe1a5ed778d9ee97289b381fe7bcd0525.jar" />
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-afe070a9939a713070eba8bf835677bf433e70e3.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-efeaf967a62b04e81aaf3f9828a4228aaa90f4a8.jar" />
-    </item>
-    <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-a236fcc78917b0f74a19c2086608720b39b043ea.jar" />
-    </item>
-    <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-267e9461102bdd98206c76a0c197d24b1508a7d7.jar" />
-    </item>
-    <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a7fa6828b4b489dbba2cd04981464f24629ac7e9.jar" />
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-364aa6e5cadebf7180d0dcc3b27530367a8d3d2b.jar" />
     </item>
     <item
         jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/libs/volley.jar"
@@ -79,18 +58,74 @@
         <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/volley-6ddd609785812858dca82b2d62b7622690e492a2.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-f7c05b9016ed74f1d66b56d5cabafe1ce1d64e43.jar" />
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-92d9174fe1a5ed778d9ee97289b381fe7bcd0525.jar" />
     </item>
     <item
-        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.0/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58d0010cb4373696cfdc5894c4b23649af58ed18">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-517c6e23b014fddae4d971affe407f84db2f7584.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-ae5eeb9bed6345e1f91bed252e9b9c57c1f7e824.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-e3d64b974d42be9b5d29146d98fa0892ba939914.jar" />
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-500ba57a528f97a49052beb8016a59e81ad713ed.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="897400f08e8b3f5e290a5da388973f7cfe700965">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-229dcd339b552052f5f7d901707f8bfe83d089a5.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-92d9174fe1a5ed778d9ee97289b381fe7bcd0525.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3a3189a228a65d03b3ea92a1b58a2b44bc7366e">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-230458b469601cbf0d912e979ab584758302e94d.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-500ba57a528f97a49052beb8016a59e81ad713ed.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/classes-7dfa501b2cc27d20ddfa0e21d4395117f73cc09d.jar" />
+    </item>
+    <item
+        jar="/Users/willwallis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/willwallis/Documents/AndroidStudioProjects/MyPretty/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-a323c5a5ba06b105dd32cee9c173a605808a1b07.jar" />
     </item>
 
 </items>
