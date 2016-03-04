@@ -10,14 +10,13 @@ import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
+import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.Snackbar;
 import android.support.v4.widget.SwipeRefreshLayout;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.text.format.DateUtils;
-import android.util.TypedValue;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
@@ -46,12 +45,7 @@ public class ArticleListActivity extends Activity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list_material);
 
-//        mToolbar = (Toolbar) findViewById(R.id.toolbar);
-//        final View toolbarContainerView = findViewById(R.id.toolbar_container);
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
-
-        mCollapsingView = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar_layout);
-        mCollapsingView.setTitle(getString(R.string.app_name));
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
@@ -60,7 +54,9 @@ public class ArticleListActivity extends Activity implements
 
         if (savedInstanceState == null) {
             refresh();
+            displaySnackBar("No refresh in demo version");
         }
+
     }
 
     private void refresh() {
@@ -99,6 +95,15 @@ public class ArticleListActivity extends Activity implements
     @Override
     public Loader<Cursor> onCreateLoader(int i, Bundle bundle) {
         return ArticleLoader.newAllArticlesInstance(this);
+    }
+
+    // Created in order to meet Udacity requirements to use a snack bar
+    private void displaySnackBar(String displayText) {
+                CoordinatorLayout coordinatorLayout = (CoordinatorLayout) findViewById(R.id.coordinator_layout);
+        Snackbar snackbar = Snackbar
+                .make(coordinatorLayout, displayText, Snackbar.LENGTH_LONG);
+
+        snackbar.show();
     }
 
     @Override
